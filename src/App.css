@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+.container {
+  width: 100%;
+  font-family: PT Root UI, sans-serif;
+}
+.blocks{
+  display: flex;
+  height: 2500px;
+  padding: 150px;
+  padding-top: 32px;
+}
+
