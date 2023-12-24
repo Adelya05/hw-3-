@@ -1,6 +1,6 @@
 import "./App.css";
 import Header from "./components/header";
-import Left from "./components/leftCon";
+import Left from "./components/leftContainer";
 import Right from "./components/rightCon";
 import Footer from "./components/Footer";
 

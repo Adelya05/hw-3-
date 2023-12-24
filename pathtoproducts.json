@@ -1,0 +1,109 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "image": "Rectangle 1668 (1).svg",
+      "icon": "verified_user (2).svg",
+      "title": "Pattern Print",
+      "price": 27550
+    },
+    {
+      "id": 2,
+      "image": "Rectangle 1668 (1).svg",
+      "icon": "verified_user (2).svg",
+      "title": "Pattern Print",
+      "price": 27550
+    },
+    {
+      "id": 3,
+      "image": "Rectangle 1668 (1).svg",
+      "icon": "verified_user (2).svg",
+      "title": "Pattern Print",
+      "price": 27550
+    },
+    {
+      "id": 4,
+      "image": "Rectangle 1668 (1).svg",
+      "icon": "verified_user (2).svg",
+      "title": "Pattern Print",
+      "price": 27550
+    },
+    {
+      "id": 5,
+      "image": "Rectangle 1668 (1).svg",
+      "icon": "verified_user (2).svg",
+      "title": "Pattern Print",
+      "price": 27550
+    },
+    {
+      "id": 6,
+      "image": "Rectangle 1668 (1).svg",
+      "icon": "verified_user (2).svg",
+      "title": "Pattern Print",
+      "price": 27550
+    },
+    {
+      "id": 7,
+      "image": "Rectangle 1668 (1).svg",
+      "icon": "verified_user (2).svg",
+      "title": "Pattern Print",
+      "price": 27550
+    },
+    {
+      "id": 8,
+      "image": "Rectangle 1668 (1).svg",
+      "icon": "verified_user (2).svg",
+      "title": "Pattern Print",
+      "price": 27550
+    },
+    {
+      "id": 9,
+      "image": "Rectangle 1668 (1).svg",
+      "icon": "verified_user (2).svg",
+      "title": "Pattern Print",
+      "price": 27550
+    },
+    {
+      "id": 10,
+      "image": "Rectangle 1668 (1).svg",
+      "icon": "verified_user (2).svg",
+      "title": "Pattern Print",
+      "price": 27550
+    },
+    {
+      "id": 11,
+      "image": "Rectangle 1668 (1).svg",
+      "icon": "verified_user (2).svg",
+      "title": "Pattern Print",
+      "price": 27550
+    },
+    {
+      "id": 12,
+      "image": "Rectangle 1668 (1).svg",
+      "icon": "verified_user (2).svg",
+      "title": "Pattern Print",
+      "price": 27550
+    },
+    {
+      "id": 13,
+      "image": "Rectangle 1668 (1).svg",
+      "icon": "verified_user (2).svg",
+      "title": "Pattern Print",
+      "price": 27550
+    },
+    {
+      "id": 14,
+      "image": "Rectangle 1668 (1).svg",
+      "icon": "verified_user (2).svg",
+      "title": "Pattern Print",
+      "price": 27550
+    },
+    {
+      "id": 15,
+      "image": "Rectangle 1668 (1).svg",
+      "icon": "verified_user (2).svg",
+      "title": "Pattern Print",
+      "price": 27550
+    }
+  ]
+}

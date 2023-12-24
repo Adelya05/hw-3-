@@ -3,13 +3,11 @@
     height: 2450px;
     position: relative;
 }
-.sort {
+.leftCon-sort {
     display: flex;
     gap: 356px;
 }
-
-/*  */
-.sorted-p{
+.p-sorted{
     display: flex;
     gap: 12px;
     align-items: center;
@@ -19,28 +17,28 @@
     gap: 3px;
     align-items: center;
 }
-.sort p{
+.leftCon-sort p{
     color: var(--Black, #121720);
     font-size: 16px;
 }
-.sorted-p p{
+.p-sorted p{
     color: var(--Gray, #9095A9);
+    font-size: 16px;
 }
 .sortP-icon p{
     color: var(--Black, #121720);
-    font-size: 16px;
 }
+
 .sortP-icon{
     display: flex;
     padding: 14px 16px;
     justify-content: center;
+    align-items: center;
     gap: 10px;
     border-radius: 16px;
     border: 1px solid var(--Gray-Light, #EFF0F2);
     background: var(--White, #FFF);
 }
-
-
 
 .btn-more{
     height: 216px;
@@ -69,6 +67,7 @@
 .numbers{
     display: flex;
     gap: 12px;
+    color: var(--Black, #121720);
     font-size: 16px;
 }
 .numbers span{
@@ -76,50 +75,33 @@
     font-size: 16px;
 }
 
+
 /*  */
 .cards{
-    display: inline-flex;
+    margin-top: 35px;
+    display: flex;
     flex-wrap: wrap;
-    gap: 23px;
-   margin-top: 32px;
+    gap: 24px;
 }
-.info {
-    height: 126px;
-    align-self: stretch;
-    margin-top: 16px;
-}
-.info-text {
-    display: flex;
-    align-items: center;
-    display: flex;
-    margin-top: 16px;
-    gap: 8px;
-}
-.info-text p{
-    font-size: 16px;
-    margin-left: 80px;
-}
-
-.info-text h3{
-    color: var(--Black, #121720);
-    font-size: 16px;
-    font-weight: 500;
-}
-
-
 .card-line{
     width: 267px;
     height: 1px;
     background: #EFF0F2;
-    margin-top: 12px;
+    margin-top: 20px;
     margin-bottom: 12px;
 }
 .card-p{
+    height: 20px;
+    display: flex;
+    margin-top: 16px;
+    justify-content: space-between;
+    color: var(--Black, #121720);
+    font-size: 16px;
+}
+.card-p2{
     display: flex;
     flex-direction: column;
     gap: 8px;
-}
-.card-p p{
     color: var(--Gray, #9095A9);
     font-size: 16px;
 }
@@ -128,21 +110,3 @@
     gap: 12px;
     margin-top: 16px;
 }
-
-.picture2 {
-    display: flex;
-    width: 267px;
-    height: 380px;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 16px;
-    margin-top: 34px;
-}
-.picture {
-    display: flex;
-    width: 267px;
-    height: 380px;
-    flex-direction: column;
-    margin-top: 32px;
-}
-
